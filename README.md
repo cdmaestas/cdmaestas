@@ -12,6 +12,19 @@ Scale: benchmarking harnesses, cluster administration, network validation, and i
 
 ---
 
+### Selected publications &amp; talks
+
+**IBM Redbooks** — [Working with Abstract Data](https://www.redbooks.ibm.com/abstracts/sg248602.html) (SG24-8602, 2026) ·
+[Storage Scale System 6000 with NVIDIA DGX SuperPOD](https://www.redbooks.ibm.com/abstracts/redp5746.html) (REDP-5746, 2026) ·
+[Storage Scale System Introduction Guide](https://www.redbooks.ibm.com/abstracts/redp5729.html) (REDP-5729, 2026) ·
+[Storage Ceph Concepts and Architecture](https://www.redbooks.ibm.com/abstracts/redp5721.html) (REDP-5721, 2024) ·
+[Software-Defined Storage Guide](https://www.redbooks.ibm.com/abstracts/redp5121.html) (REDP-5121, 2018)
+
+**Talks** — [Revamping Data Storage to Harness AI](https://www.youtube.com/watch?v=uuhtsoZyB3w) (theCUBE, IBM Storage Summit, 2023) ·
+[IBM Storage Scale for Data and AI](https://techfieldday.com/video/ibm-storage-scale-for-data-and-ai-solutions-and-demonstration/) (Storage Field Day 25, 2023)
+
+---
+
 ### Cluster tooling
 
 **[Cbench](https://github.com/cdmaestas/cbench)** — Scalable cluster benchmarking and testing toolkit.
