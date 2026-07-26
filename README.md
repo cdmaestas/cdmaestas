@@ -12,16 +12,31 @@ Scale: benchmarking harnesses, cluster administration, network validation, and i
 
 ---
 
-### Selected publications &amp; talks
+### Selected Recent Redbooks
 
-**IBM Redbooks** — [Working with Abstract Data](https://www.redbooks.ibm.com/abstracts/sg248602.html) (SG24-8602, 2026) ·
-[Storage Scale System 6000 with NVIDIA DGX SuperPOD](https://www.redbooks.ibm.com/abstracts/redp5746.html) (REDP-5746, 2026) ·
-[Storage Scale System Introduction Guide](https://www.redbooks.ibm.com/abstracts/redp5729.html) (REDP-5729, 2026) ·
-[Storage Ceph Concepts and Architecture](https://www.redbooks.ibm.com/abstracts/redp5721.html) (REDP-5721, 2024) ·
-[Software-Defined Storage Guide](https://www.redbooks.ibm.com/abstracts/redp5121.html) (REDP-5121, 2018)
+- [IBM Storage Scale: Working with Abstract Data](https://www.redbooks.ibm.com/abstracts/sg248602.html?Open), IBM Redbooks (SG24-8602), 2026
+- [IBM Storage Scale System 6000 with NVIDIA DGX SuperPOD Deployment Guide](https://www.redbooks.ibm.com/abstracts/redp5746.html?Open), IBM Redbooks (REDP-5746), 2026
+- [IBM Storage Scale System Introduction Guide](https://www.redbooks.ibm.com/abstracts/redp5729.html?Open), IBM Redbooks (REDP-5729), 2026
+- [IBM Storage Ceph Concepts and Architecture Guide](https://www.redbooks.ibm.com/abstracts/redp5721.html?Open), IBM Redbooks (REDP-5721), 2024
+- [IBM Private, Public, and Hybrid Cloud Storage Solutions](https://www.redbooks.ibm.com/abstracts/redp4873.html?Open) (REDP-4873) and [IBM Software-Defined Storage Guide](https://www.redbooks.ibm.com/abstracts/redp5121.html?Open) (REDP-5121), IBM Redbooks, 2018
 
-**Talks** — [Revamping Data Storage to Harness AI](https://www.youtube.com/watch?v=uuhtsoZyB3w) (theCUBE, IBM Storage Summit, 2023) ·
-[IBM Storage Scale for Data and AI](https://techfieldday.com/video/ibm-storage-scale-for-data-and-ai-solutions-and-demonstration/) (Storage Field Day 25, 2023)
+### Talks & Media
+
+- [IBM Storage Scale: Working with Abstract Data](https://mediacenter.ibm.com/channel/IBM+Redbooks/194592493), Author Session, IBM MediaCenter, 2026
+- IBM Storage Scale System 6000 with NVIDIA DGX SuperPOD, 2026 _(video link to confirm)_
+- [IBM Fusion Deep Archive and Tape Robotics for HPC and AI](https://www.youtube.com/watch?v=0W-NHF5d9tQ), SC25, 2025
+- [Optimize Your Data Lifecycle](https://jeskell.com/optimize-your-data-lifecycle-join-our-digital-talk-series-with-ibm-storage-scale-tape/), Jeskell digital talk series, 2025
+- [Roundtable: High Performance Storage](https://www.youtube.com/watch?v=4s8Lq1UuKPo) (with Patano, Atzkern, Coomer), 2024
+- [Revamping Data Storage to Harness AI](https://siliconangle.com/2023/07/27/revamping-data-storage-to-harness-ai-for-an-information-supply-chain-ibmstoragesummit/), theCUBE at IBM Storage Summit, 2023
+- IBM Storage Scale — A Global Data Platform, Tech Field Day, 2023 _(video link to confirm)_
+- [IBM TechU 2021: IBM Storage Portfolio for Data and AI](https://mediacenter.ibm.com/media/IBM+TechU+2021+virtual+edition+-+IBM+Storage+portfolio+can+address+Data+and+AI+with+Chris+Maestas/1_m77bd1yb), 2021
+- [Spectrum Scale User Group (SSUG)](https://www.spectrumscaleug.org/presentations/) presenter, various sessions, 2018–2025
+
+### Blog Posts
+
+- [CAS for Scale System 6000](https://community.ibm.com/community/user/blogs/christopher-maestas/2026/05/30/cas-for-scale-system-6000), IBM Community, 2026
+- [HPC, AI and Culture: My Trip to SCAHPC Asia 2026](https://community.ibm.com/community/user/blogs/christopher-maestas/2026/02/06/hpc-ai-and-culture-my-trip-to-scahpc-asia-2026), IBM Community, 2026
+- [Visit to Copernicus LAC Chile](https://es.linkedin.com/posts/copernicuslacchile_ayer-recibimos-en-copernicuslac-chile-a-christopher-activity-7435316350891384833-QA1R), LinkedIn, 2026
 
 ---
 
