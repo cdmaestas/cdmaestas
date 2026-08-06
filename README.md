@@ -23,12 +23,11 @@ Scale: benchmarking harnesses, cluster administration, network validation, and i
 ### Talks & Media
 
 - [IBM Storage Scale: Working with Abstract Data](https://mediacenter.ibm.com/channel/IBM+Redbooks/194592493), Author Session, IBM MediaCenter, 2026
-- IBM Storage Scale System 6000 with NVIDIA DGX SuperPOD, 2026 _(video link to confirm)_
 - [IBM Fusion Deep Archive and Tape Robotics for HPC and AI](https://www.youtube.com/watch?v=0W-NHF5d9tQ), SC25, 2025
 - [Optimize Your Data Lifecycle](https://jeskell.com/optimize-your-data-lifecycle-join-our-digital-talk-series-with-ibm-storage-scale-tape/), Jeskell digital talk series, 2025
 - [Roundtable: High Performance Storage](https://www.youtube.com/watch?v=4s8Lq1UuKPo) (with Patano, Atzkern, Coomer), 2024
 - [Revamping Data Storage to Harness AI](https://siliconangle.com/2023/07/27/revamping-data-storage-to-harness-ai-for-an-information-supply-chain-ibmstoragesummit/), theCUBE at IBM Storage Summit, 2023
-- IBM Storage Scale — A Global Data Platform, Tech Field Day, 2023 _(video link to confirm)_
+- [IBM Storage at Storage Field Day 25](https://techfieldday.com/appearance/ibm-storage-presents-at-storage-field-day-25/), Tech Field Day, 2023
 - [IBM TechU 2021: IBM Storage Portfolio for Data and AI](https://mediacenter.ibm.com/media/IBM+TechU+2021+virtual+edition+-+IBM+Storage+portfolio+can+address+Data+and+AI+with+Chris+Maestas/1_m77bd1yb), 2021
 - [Spectrum Scale User Group (SSUG)](https://www.spectrumscaleug.org/presentations/) presenter, various sessions, 2018–2025
 
