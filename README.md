@@ -64,15 +64,16 @@ Storage Scale Installation Toolkit. Guided, form-driven install, deploy, and upg
 command preview before anything executes. Ships as signed RPM and DEB packages.
 `HTML` `Flask`
 
-**[Network Readiness (KOET)](https://github.com/cdmaestas/StorageScale_NETWORK_READINESS)** — Development
-fork of the Storage Scale network readiness tool. Validates interconnect latency, throughput, and packet
-loss before a deployment goes near production.
-`C`
+**[Network Readiness (KOET)](https://github.com/cdmaestas/StorageScale_NETWORK_READINESS)** — Validates
+interconnect latency, throughput, and packet loss before a deployment goes near production. Forked from
+[IBM/SpectrumScale_NETWORK_READINESS](https://github.com/IBM/SpectrumScale_NETWORK_READINESS).
+`C` `fork`
 
 **[Storage Scale MCP Server](https://github.com/cdmaestas/ibm-storage-scale-mcp-server)** — An MCP server
 over the Storage Scale REST APIs and CLIs, letting LLMs query and interact with a live cluster through a
-structured tool interface.
-`Python`
+structured tool interface. Forked from
+[IBM/ibm-storage-scale-mcp-server](https://github.com/IBM/ibm-storage-scale-mcp-server).
+`Python` `fork`
 
 **[Storage Scale Agents](https://github.com/cdmaestas/ibm-storage-scale-agents)** — Specialized reference
 AI agents built on the Storage Scale MCP server, giving LLMs task-focused ways to operate against a live
@@ -85,8 +86,9 @@ Spectrum Scale (GPFS) User Group for administering and inspecting GPFS / Storage
 `C` `fork`
 
 **[ESS Comprestimator](https://github.com/cdmaestas/ess_comprestimator)** — Samples existing data to
-project how much capacity compression would actually reclaim before you commit to enabling it.
-`TypeScript`
+project how much capacity compression would actually reclaim before you commit to enabling it. Forked from
+[IBM/ess_comprestimator](https://github.com/IBM/ess_comprestimator).
+`TypeScript` `fork`
 
 ---
 
