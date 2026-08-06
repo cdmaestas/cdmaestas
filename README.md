@@ -53,6 +53,11 @@ and manages HPC clusters by bundling common cluster tools (pdsh, genders, Slurm,
 freeipmi, powerman) behind a unified build and install system with RPM and Debian packaging.
 `Shell`
 
+**[dool](https://github.com/cdmaestas/dool)** — Command-line, real-time monitoring of Linux system
+resources (CPU, memory, network, disk, load) with a plugin architecture. Forked from
+[scottchiefbaker/dool](https://github.com/scottchiefbaker/dool), a Python 3 successor to dstat.
+`Python` `fork`
+
 ### IBM Storage Scale
 
 **[Scale GUInstall](https://github.com/cdmaestas/Scale-GUInstall)** — A single-file web frontend for the
@@ -69,6 +74,16 @@ loss before a deployment goes near production.
 over the Storage Scale REST APIs and CLIs, letting LLMs query and interact with a live cluster through a
 structured tool interface.
 `Python`
+
+**[Storage Scale Agents](https://github.com/cdmaestas/ibm-storage-scale-agents)** — Specialized reference
+AI agents built on the Storage Scale MCP server, giving LLMs task-focused ways to operate against a live
+cluster. Forked from [IBM/ibm-storage-scale-agents](https://github.com/IBM/ibm-storage-scale-agents).
+`Python` `fork`
+
+**[GPFS User Group Tools](https://github.com/cdmaestas/gpfsug-tools)** — Community-maintained tools from the
+Spectrum Scale (GPFS) User Group for administering and inspecting GPFS / Storage Scale clusters. Forked from
+[gpfsug/gpfsug-tools](https://github.com/gpfsug/gpfsug-tools).
+`C` `fork`
 
 **[ESS Comprestimator](https://github.com/cdmaestas/ess_comprestimator)** — Samples existing data to
 project how much capacity compression would actually reclaim before you commit to enabling it.
