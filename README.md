@@ -57,6 +57,16 @@ resources (CPU, memory, network, disk, load) with a plugin architecture. Forked 
 [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool), a Python 3 successor to dstat.
 `Python` `fork`
 
+**[pdsh](https://github.com/cdmaestas/pdsh)** — Multithreaded parallel remote shell client that runs
+commands across many hosts at once, over ssh, rsh, or Kerberos IV. Forked from
+[chaos/pdsh](https://github.com/chaos/pdsh).
+`C` `fork`
+
+**[ctrl-data-mgmt](https://github.com/cdmaestas/ctrl-data-mgmt)** — A local file metadata catalog: index
+the directories you care about, then find what's eating your disk and what you're storing twice. Pure
+Python standard library, nothing leaves the machine.
+`Python`
+
 ### IBM Storage Scale
 
 **[Scale GUInstall](https://github.com/cdmaestas/Scale-GUInstall)** — A single-file web frontend for the
@@ -64,10 +74,16 @@ Storage Scale Installation Toolkit. Guided, form-driven install, deploy, and upg
 command preview before anything executes. Ships as signed RPM and DEB packages.
 `HTML` `Flask`
 
-**[Network Readiness (KOET)](https://github.com/cdmaestas/StorageScale_NETWORK_READINESS)** — Validates
+**[Network Readiness (KOET)](https://github.com/cdmaestas/SpectrumScale_NETWORK_READINESS)** — Validates
 interconnect latency, throughput, and packet loss before a deployment goes near production. Forked from
 [IBM/SpectrumScale_NETWORK_READINESS](https://github.com/IBM/SpectrumScale_NETWORK_READINESS).
 `C` `fork`
+
+**[ECE Capacity Estimator](https://github.com/cdmaestas/StorageScale_ECE_CAPACITY_ESTIMATOR)** — Calculates
+effective usable capacity for Storage Scale Native RAID (ECE) systems from a hardware configuration, or
+solves in reverse for the smallest configuration that meets a capacity target. Forked from
+[IBM/SpectrumScale_ECE_CAPACITY_ESTIMATOR](https://github.com/IBM/SpectrumScale_ECE_CAPACITY_ESTIMATOR).
+`Python` `fork`
 
 **[Storage Scale MCP Server](https://github.com/cdmaestas/ibm-storage-scale-mcp-server)** — An MCP server
 over the Storage Scale REST APIs and CLIs, letting LLMs query and interact with a live cluster through a
